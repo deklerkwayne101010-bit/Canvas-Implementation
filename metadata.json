@@ -1,0 +1,5 @@
+{
+  "name": "CanvasAI - Design Suite",
+  "description": "A powerful, web-based graphic design tool featuring drag-and-drop editing, rich text manipulation, shape tools, and integrated Gemini AI for magic text and image generation.",
+  "requestFramePermissions": []
+}
